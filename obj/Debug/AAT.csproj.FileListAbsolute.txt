@@ -1,8 +1,0 @@
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\bin\Debug\AAT.dll
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\bin\Debug\AAT.pdb
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\bin\Debug\WebDriver.dll
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\bin\Debug\WebDriver.xml
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\obj\Debug\AAT.csprojResolveAssemblyReference.cache
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\obj\Debug\AAT.dll
-C:\Users\Viv\Documents\Visual Studio 2015\Projects\AAT\AAT\obj\Debug\AAT.pdb
